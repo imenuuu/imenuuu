@@ -22,5 +22,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
+## Carrer
+2021 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 인사담당 운영진 </br>
+2022 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 부회장 </br>
+2022 UMC 3rd 가톨릭대학교 회장
+
 ## GitHub Stacks
 ![imenuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imenuuu&show_icons=true&theme=radical)
+
