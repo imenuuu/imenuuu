@@ -30,8 +30,8 @@
 ## Carrer
 2021 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 인사담당 운영진 </br>
 2022 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 부회장 </br>
-2022 UMC 3rd 가톨릭대학교 회장
-
+2022 전국 연합 앱런칭 동아리 UMC 3rd 가톨릭대학교 회장
+2023 수익형 앱런칭 동아리 CMC 12th Server 파트
 ## GitHub Stacks
 ![imenuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imenuuu&show_icons=true&theme=radical)
 
