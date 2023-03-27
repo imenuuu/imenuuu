@@ -31,7 +31,7 @@
 2021.03 ~ 2022.02 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 인사담당 운영진 </br>
 2022.03 ~ 2023.02 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 부회장 </br>
 2022.07 ~ 2023.02 전국 연합 앱런칭 동아리 UMC 3rd 가톨릭대학교 회장 </br>
-2023.02 ~ 수익형 앱런칭 동아리 CMC 12th Server Developer</br>
+2022.12 ~ 수익형 앱런칭 동아리 CMC 12th Server Developer</br>
 2023.02 ~ 전국 연합 앱런칭 동아리 UMC 4th 가톨릭대학교 부회장 </br>
 ## GitHub Stacks
 ![imenuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imenuuu&show_icons=true&theme=radical)
