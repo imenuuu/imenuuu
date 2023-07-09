@@ -35,6 +35,8 @@
 2022.12 ~ 2023.03 수익형 앱런칭 동아리 CMC 12th Server Developer</br>
 2023.02 ~ 전국 연합 앱런칭 동아리 UMC 4th 가톨릭대학교 부회장 </br>
 2023.04 ~ 수익형 앱런칭 동아리 CMC 13th Server 파트장</br>
+2023.07 ~ 스타트업 Team Match BE Developer
+
 ## GitHub Stacks
 ![imenuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imenuuu&show_icons=true&theme=radical)
 
