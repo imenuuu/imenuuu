@@ -37,6 +37,9 @@
 2023.04 ~ 2023.09 수익형 앱런칭 동아리 CMC 13th Server 파트장</br>
 2023.07 ~ 스타트업 Team Match BE Developer
 
+## Github Stat
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## GitHub Stacks
 ![imenuuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=imenuuu&show_icons=true&theme=radical)
 
