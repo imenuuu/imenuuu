@@ -36,6 +36,7 @@
 2023.02 ~ 2023.08 전국 연합 앱런칭 동아리 UMC 4th 가톨릭대학교 부회장 </br>
 2023.04 ~ 2023.09 수익형 앱런칭 동아리 CMC 13th Server 파트장</br>
 2023.06 ~ 스타트업 Team Match BE Developer
+2023.09 ~ 수익형 앱런칭 동아리 CMC 14th Tech Head Lead</br>
 
 ## Github Stat
 
