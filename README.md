@@ -39,14 +39,14 @@
 2023.09 ~ 수익형 앱런칭 동아리 CMC 14th Tech Head Lead </br>
 
 ## Projects
-2022 - 객체지향 패러다임 - 소켓 통신을 활용한 팀 채팅 (Java)
-2022 - 라이징 캠프 망고플레이트 클론코딩 (SpringBoot + Java)
-2022 - 소프트웨어 공학 - JpetStore 리팩토링 프로젝트 (JSP + Servelet)
-2023 - UMC 3rd Lifolio 프로젝트  (SpringBoot + Java)
-2023 - CMC 12th Runway 1인 서버 개발 프로젝트  (SpringBoot + Java)
-2023 - 종합설계 프로젝트 - Cindy 프로젝트  (SpringBoot + Java)
-2023 - Team Winey 와인 테이스팅 노트 프로젝트  (SpringBoot + Java)
-2023 - Match 현장실습 BE 1인 서버 개발 (SpringBoot + Java),  관리자페이지 FE 개발 (React + Typescript)
+2022 - 객체지향 패러다임 - 소켓 통신을 활용한 팀 채팅 (Java) </br>
+2022 - 라이징 캠프 망고플레이트 클론코딩 (SpringBoot + Java) </br>
+2022 - 소프트웨어 공학 - JpetStore 리팩토링 프로젝트 (JSP + Servelet) </br>
+2023 - UMC 3rd Lifolio 프로젝트  (SpringBoot + Java) </br>
+2023 - CMC 12th Runway 1인 서버 개발 프로젝트  (SpringBoot + Java) </br>
+2023 - 종합설계 프로젝트 - Cindy 프로젝트  (SpringBoot + Java) </br>
+2023 - Team Winey 와인 테이스팅 노트 프로젝트  (SpringBoot + Java) </br>
+2023 - Match 현장실습 BE 1인 서버 개발 (SpringBoot + Java),  관리자페이지 FE 개발 (React + Typescript) </br>
 
 2023 - CMC Product Team 동아리 어플리케이션 프로젝트 (SpringBoot + Kotlin)
 ## Github Stat
