@@ -45,10 +45,10 @@
 2023 - UMC 3rd Lifolio 프로젝트  (SpringBoot + Java) </br>
 2023 - CMC 12th Runway 1인 서버 개발 프로젝트  (SpringBoot + Java) </br>
 2023 - 종합설계 프로젝트 - Cindy 프로젝트  (SpringBoot + Java) </br>
-2023 - Team Winey 와인 테이스팅 노트 프로젝트  (SpringBoot + Java) </br>
+2023 - Team Winey 와인 테이스팅 노트 프로젝트  (SpringBoot + Java)</br>
 2023 - Match 현장실습 BE 1인 서버 개발 (SpringBoot + Java),  관리자페이지 FE 개발 (React + Typescript) </br>
+2023 - CMC Product Team 동아리 어플리케이션 프로젝트 (SpringBoot + Kotlin) </br>
 
-2023 - CMC Product Team 동아리 어플리케이션 프로젝트 (SpringBoot + Kotlin)
 ## Github Stat
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
