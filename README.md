@@ -28,14 +28,17 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=#4A154B"/>
 </div>
 
-## Carrer
+## Work Experiences
+- 2023.06 ~ 2023.12 매치컴퍼니(주) BE Developer 현장실습 인턴 </br>
+- 2024.04 ~ ing [엔에스원소프트(주)](http://nsonesoft.com/) 솔루션사업부 소프트웨어 엔지니어 </br>
+
+## Activities
 - 2021.03 ~ 2022.02 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 인사담당 운영진 </br>
 - 2022.03 ~ 2023.02 가톨릭대학교 컴퓨터정보공학부 전공학회 F.A.N 부회장 </br>
 - 2022.07 ~ 2023.02 전국 연합 앱런칭 동아리 UMC 3rd 가톨릭대학교 회장 </br>
 - 2022.12 ~ 2023.03 수익형 앱런칭 동아리 CMC 12th Server Developer</br>
 - 2023.02 ~ 2023.08 전국 연합 앱런칭 동아리 UMC 4th 가톨릭대학교 부회장 </br>
 - 2023.04 ~ 2023.09 수익형 앱런칭 동아리 CMC 13th Server 파트장</br>
-- 2023.06 ~ 2023.12 스타트업 Team Match BE Developer </br>
 - 2023.09 ~ 2024.02 수익형 앱런칭 동아리 CMC 14th Tech Head Lead </br>
 
 ## Projects
